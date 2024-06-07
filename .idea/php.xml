@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <PhpCSFixerConfiguration tool_path="$PROJECT_DIR$/hyperf-skeleton/vendor/bin/php-cs-fixer" />
+    </phpcsfixer_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/react/child-process" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/carbonphp/carbon-doctrine-types" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/composer" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/laminas/laminas-mime" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/swoole/ide-helper" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/memory" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/engine" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/database" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/redis" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/command" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/cache" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/devtool" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/testing" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/clue/ndjson-react" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/ide-helper" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/context" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/config" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/server" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/http-server" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/di" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/event" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/pool" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/macroable" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/model-listener" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/fidry/cpu-core-counter" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/dispatcher" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/guzzle" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/http-message" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/utils" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/db-connection" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/framework" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/contract" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/process" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/logger" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/hyperf/exception-handler" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/hyperf-skeleton/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/carbonphp/carbon-doctrine-types" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/vendor/fidry/cpu-core-counter" />
+      <path value="$PROJECT_DIR$/vendor/clue/ndjson-react" />
+      <path value="$PROJECT_DIR$/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/react/child-process" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/contract" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/database" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/context" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/di" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/logger" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/model-listener" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/http-server" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/memory" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/framework" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/cache" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/redis" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/config" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/server" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/http-message" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/utils" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/testing" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/exception-handler" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/command" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/macroable" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/db-connection" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/devtool" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/pool" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/engine" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/process" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/event" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/swoole/ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-mime" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/websocket-server" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/hyperf/watcher" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+  <component name="PhpStan">
+    <PhpStan_settings>
+      <PhpStanConfiguration tool_path="$PROJECT_DIR$/hyperf-skeleton/vendor/bin/phpstan" />
+    </PhpStan_settings>
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="config" value="$PROJECT_DIR$/hyperf-skeleton/phpstan.neon" />
+    <option name="memoryLimit" value="300M" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/phpunit.xml" custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
