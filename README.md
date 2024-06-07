@@ -1,4 +1,5 @@
 # 聊天室服务
+
 复制.env.example 为 .env 修改对应的数据库配置和redis配置
 
 数据库初始化文件 mysql.sql
