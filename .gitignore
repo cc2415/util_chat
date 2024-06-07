@@ -1,3 +1,4 @@
 runtime
 .env
 vendor
+.idea
