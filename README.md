@@ -1,4 +1,4 @@
-# 聊天室服务
+# 基于hyperf实现聊天室服务
 
 复制.env.example 为 .env 修改对应的数据库配置和redis配置
 
@@ -13,7 +13,7 @@ socket端口：9502
 # 测试接口文档 ：
 https://apifox.com/apidoc/shared-19072099-2c5b-4f47-bd8c-7157e81a1e34/doc-4441352
 
-# 如何添加新数据类型
+# 如何添加新消息类型
 在该目录，**MessageModel**
 创建一个文件来继承**MessageModel/AbsMessageModel.php**
 通过构造函数定义消息类型的数据结构
