@@ -38,6 +38,7 @@ class UserServices extends BaseServices
     {
         $data = [];
         if ($res = UserModel::getInfoByWhere(['name' => $name, 'password' => md5($passWord)])) {
+            unset($res['password']);
             $data['name'] = $name;
             $data['token'] = JWTHelper::encode($res);
         } else {
