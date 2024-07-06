@@ -12,7 +12,6 @@ class JWTHelper
     public static function encode($value, $ttl = 31536000)
     {
         $payload = [
-            'iss' => self::$KEY,
             'aud' => $value,
             'iat' => time(),
             'exp' => time() + $ttl
